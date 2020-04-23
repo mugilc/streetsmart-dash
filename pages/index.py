@@ -16,7 +16,7 @@ column1 = dbc.Col(
         dcc.Markdown(
             """
         
-            ## Your Value Proposition
+            ## Estimate or predict the price of a car
 
             Emphasize how the app will benefit users. Don't emphasize the underlying technology.
 
@@ -26,7 +26,7 @@ column1 = dbc.Col(
 
             """
         ),
-        dcc.Link(dbc.Button('Your Call To Action', color='primary'), href='/predictions')
+        dcc.Link(dbc.Button('Try It!', color='primary'), href='/predictions')
     ],
     md=4,
 )
