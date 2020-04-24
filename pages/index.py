@@ -18,11 +18,9 @@ column1 = dbc.Col(
         
             ## Estimate or predict the price of a car
 
-            Emphasize how the app will benefit users. Don't emphasize the underlying technology.
 
-            ✅ RUN is a running app that adapts to your fitness levels and designs personalized workouts to help you improve your running.
+            Street Smarts is a car price predicting app that that provides car price predictions and estimates environmental impact of cars.
 
-            ❌ RUN is the only intelligent running app that uses sophisticated deep neural net machine learning to make your run smarter because we believe in ML driven workouts.
 
             """
         ),
